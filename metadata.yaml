@@ -1,0 +1,42 @@
+_repo: A-Book-About-the-Theater_36790
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Matthews, Brander
+    aliases:
+    - Penn, Arthur
+    - Matthews, James Brander
+    - Matthews, J. Brander (James Brander)
+    birthdate: 1852
+    deathdate: 1929
+    gutenberg_agent_id: '1992'
+    url: http://www.gutenberg.org/2009/agents/1992
+    wikipedia: http://en.wikipedia.org/wiki/Brander_Matthews
+description: ''
+gutenberg_issued: '2011-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36790'
+  lccn: '16021742'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Theater'
+- !lcc 'PN'
+- !lcsh 'Theater -- History'
+- !lcsh 'Drama -- History and criticism'
+tableOfContents: The show business -- The limitations of the stage -- A moral from
+  a toy theater -- Why five acts? -- Dramatic collaboration -- The dramatization of
+  novels and the novelization of plays -- Women dramatists -- The evolution of scene-painting
+  -- The book of the opera -- The poetry of the dance -- The principles of pantomime
+  -- The ideal of the acrobat -- The decline and fall of the negro-minstrelsy -- The
+  utility of the variety-show -- The method of modern magic -- The lamentable tragedy
+  of Punch and Judy -- The puppet-play, past and present -- Shadow-pantomime, with
+  all the modern improvements -- The problem of dramatic criticism.
+title: A Book About the Theater
+url: http://www.gutenberg.org/ebooks/36790
