@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1992
     wikipedia: http://en.wikipedia.org/wiki/Brander_Matthews
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36790#A-Book-About-the-Theater
 gutenberg_issued: '2011-07-20'
 gutenberg_type: Text
 identifiers:
